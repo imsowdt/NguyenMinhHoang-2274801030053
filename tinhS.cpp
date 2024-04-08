@@ -15,7 +15,6 @@ int main() {
     // Tính diện tích của hình chữ nhật
     area = length * width;
 
-    // Hiển thị diện tích
     cout << "Diện tích của hình chữ nhật là: " << area << endl;
 
     return 0;
